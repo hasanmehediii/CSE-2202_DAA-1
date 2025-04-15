@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ArticulationPoints {
+public class ArticulationPoints {
     private int V, time = 0;
     private List<List<Integer>> adj;
 

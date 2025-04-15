@@ -1,3 +1,5 @@
+package Lab.Lab3;
+
 import java.util.*;
 
 public class Lab {
